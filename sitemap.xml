@@ -1,1494 +1,1829 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.innovation.fsu.edu/news</loc>
+    <loc>https://www.innovation.fsu.edu/innovation-hub-news</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2021-10-21</lastmod>
+    <lastmod>2024-10-01</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/news/innovation-hub-safeguards-frontline</loc>
+    <loc>https://www.innovation.fsu.edu/innovation-hub-news/blog-post-title-one-49agk</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2020-08-19</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1589841624915-7FZNBLQF6FTNDXKDCAFD/ppe.jpg</image:loc>
-    </image:image>
+    <lastmod>2024-07-03</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/news/3d-print-now</loc>
+    <loc>https://www.innovation.fsu.edu/innovation-hub-news/blog-post-title-two-87sgc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2020-08-22</lastmod>
+    <lastmod>2024-07-03</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/news/new-innovative-online-services-coming-soon</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-08-04</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592847641408-K2DOK3Z36OXFP17D37QY/IMG_0730.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/news/new-class-gives-students-control-of-their-futures</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-06-25</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1589847980744-T89DJPQ35OTU724IEG4J/DYL.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/news/seminole-innovators-program-launching-in-fall</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-08-04</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1628100008193-FPITB6TP4TXEXV02EJU9/20200302_144728.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/news/designing-your-life-peer-mentor</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-21</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1634829426911-LAG0PHXRWDI58QMB3EHC/dyl_peermentor.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events</loc>
+    <loc>https://www.innovation.fsu.edu/blog-2-1</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2024-10-11</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e</loc>
+    <loc>https://www.innovation.fsu.edu/blog-2-1/blog-post-title-one-3atc7</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2021-09-17</lastmod>
+    <lastmod>2020-08-25</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl</loc>
+    <loc>https://www.innovation.fsu.edu/blog-2-1/blog-post-title-two-aa7br</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2021-09-18</lastmod>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/events/family-weekend</loc>
+    <loc>https://www.innovation.fsu.edu/blog-2-1/blog-post-title-three-pwred</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-t6yf7</loc>
+    <loc>https://www.innovation.fsu.edu/blog-2-1/blog-post-title-four-rbpne</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2021-10-01</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1633093317832-VRFE82VCWJU4CO6NRO3S/2nd+NOLE+Nation+-+Seminole+Spirit+3D+Design.png</image:loc>
-    </image:image>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e-h2waz</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-01</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1633093755343-GZYJ4Q0HVKUF1B21JNKN/2nd+NOLE+Nation+-+Seminole+Spirit+3D+Printing.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-innovators-lunch-hour</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-09-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-bmjwh-n9j3b</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-01</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1633093839302-7Q6PACUVY8S6G7OKKU2T/Plantaholics+-+Pot+It+Like+Its+Hot.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e-65pah</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-01</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1633093990722-OTMGCDYGJWUB21GNSME5/2nd+Plantaholics+-+Pot+It+Like+Its+Hot.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e-z8l5h</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-19</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1634604042372-6T37ZOM1G5IKQ4P14ZJR/halloween-3Dprinting_19.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-bmjwh-n9j3b-cy9rk</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-19</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1634604182900-QUTP210CPHL6U1VWBUOP/halloween-3Ddesign_19.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-innovators-lunch-hour-jk4tj</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-19</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1634603831614-EU4C9J3PV8IZZQ3RV2XA/Castle+-+Lunch+Hour.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-bmjwh-n9j3b-cy9rk-grrsy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e-z8l5h-bg3ga</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e-65pah-3x8pc-zkfct</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-11-01</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1635747556928-KF2HAV8CBTQ3B0O6DMWK/I+Need+That.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-bmjwh-n9j3b-cy9rk-ezn46</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-11-01</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1635748128695-5XI9D3W3VEDU0ZMKW6DM/I+Need+That.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-bmjwh-n9j3b-cy9rk-ezn46-ea4ln</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-one-wjg4e-65pah-3x8pc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/event-two-w2enl-bmjwh-n9j3b-cy9rk-ezn46-ea4ln-9d8ch</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2021-11-15</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/6f5e6e80-2eb6-43be-a800-cea8d94400a7/the+little+things.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/forever-seminole-3d-design-3d-printing-event</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-01-19</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/158c87bf-d5ca-4d8a-8a20-d26ace6f3633/Forever+Semonle_01.14.22.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-innovators-lunch-hour-1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-01-25</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/105b91f5-89c0-4bde-a456-93ae6ed44a70/Lunch+Hour+%28Brianna%29.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/c0u8ja0swapjrqrzveofse5ohwvhla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-01-31</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/01e03808-3bb0-4b37-8c11-2154a985883b/Feb2022_in+the+name+of+love.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-innovators-lunch</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-07</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/8483696c-e6df-4812-8c10-896f0794822a/Orlando+Kenny%5B53155%5D.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/let-the-games-begin</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-14</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/e4a3bff4-0fb4-4974-8fe9-ca1a0751486c/Let+the+Games+Begin.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seen-on-screen-3d-design-printing-event</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-09</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/b572de7c-085d-44e8-8733-36d9fcae5533/Seen+on+Screen+II%5B53063%5D.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/948d97a0-6f15-438d-9273-184da9490861/1_beatsaber.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/let-the-games-begin-j64ag</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-14</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/e4a3bff4-0fb4-4974-8fe9-ca1a0751486c/Let+the+Games+Begin.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-lunch-hour</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-17</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/f32bea78-a5f6-4335-a5d2-7ea348ed85c0/Lunch+Hour+%28Chih-Pu%29.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/plantaholic-3d-design-3d-printing-workshop</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-02-28</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/571920c3-da9d-4dc8-839e-92a94e919156/Plantaholics+-+Pot+It+Like+Its+Hot.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/let-the-games-begin-j64ag-pm3sp-wx95x</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-04</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/74b2596e-016d-4e09-bef8-7eeee804e512/Let+The+GAMES+Begin+%28Wed.+3-4%29.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/let-the-games-begin-j64ag-pm3sp-wx95x-ek5zn-jr68z-k6lxs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-04</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/e4a3bff4-0fb4-4974-8fe9-ca1a0751486c/Let+the+Games+Begin.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/i-need-that-3d-design-printing</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-22</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/63c64465-1414-4112-b3e5-44da7771a626/I+Need+That+%28with+Tyler%29.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/let-the-games-begin-j64ag-pm3sp-wx95x-ek5zn-jr68z-k6lxs-58xs8</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-04</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/e4a3bff4-0fb4-4974-8fe9-ca1a0751486c/Let+the+Games+Begin.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-innovators-lunch-2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-29</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/2d3f532f-f7d9-47d4-abc4-06f7259a1fda/Lunch+Hour+-+Joe+Majhess.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/game-night</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-29</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/271f204a-0972-4071-9a14-9e41fa5c071b/Game+Night.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/let-the-games-begin-j64ag-pm3sp-wx95x-ek5zn-jr68z-th9hc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-04</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/e4a3bff4-0fb4-4974-8fe9-ca1a0751486c/Let+the+Games+Begin.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/events/seminole-innovators-lunch-1</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2022-03-25</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/c2a66e68-d92c-4c8c-b62b-83086df05b1c/Seminole+Innovators+Open+House%5B60475%5D.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/team</loc>
+    <loc>https://www.innovation.fsu.edu/hub</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2025-11-25</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591833649879-3QG33VLQ5SI0SPV1IF5A/tom.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591833678902-OKQ9DBVE6HIA1Q2W88Z1/lucas.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/27dc1f6b-989c-4689-92a2-6dca066a115d/Screenshot+2024-06-18+at+8.07.07%E2%80%AFAM.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590441218793-XFLK22E92TOJ2QOKRJ5Q/eric.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Eric Adams, Fablab Supervisor, eric@innovation.fsu.edu</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/bd09fa8b-4a52-4cb4-9660-bed79496102a/IMG_20191010_120200.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592772366623-BEFO0V6BAP2M0BFL9ISF/marty_paul.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Paul Marty, Steering Committee Chair, Professor, School of Information</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/4c0e3a68-1e9f-4752-a489-d41829fc3533/IMG_20180130_152124.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590441218790-RT4WI6U85ZEWFJWDR7OZ/ken.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Ken Baldauf, Director, ken@innovation.fsu.edu</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d22853b3-5e7d-4ce0-adf9-109f324b37bf/PXL_20240701_172834799.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591838942970-W23BUV3NWFTZW5L6N9GM/baldauf_ken.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Ken Baldauf, Director, Innovation Hub</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2da4cfb2-7062-48ce-81fc-db9da5b396e4/PXL_20230504_171514109.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837678052-ZDMBF4IFKO8FCOHPO2AV/brooks_darren.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Darren Brooks, Assistant Department Chair, Director of the Center for Human Resource Management, College of Business</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e06d2fc5-d976-4678-a11d-bf3af8213db0/PXL_20240221_141633110.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1605804938887-X5U6PNADG8UJ4QKY806S/wes.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Wes Dorce, Experiential Learning Coordinator, wes@innovation.fsu.edu</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a29f0cf5-0342-46f0-979a-cf1c08631ed8/IMG_0539.CR2.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839002228-ZWU912R6GCBXF1PMU3LM/currny_kevin.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Kevin Curry, Teaching Faculty, Graduate Director, College of Fine Arts</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/330f60ec-d413-426b-9bb7-41f25c6857aa/IMG_20190207_164014.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1630353124346-DO6GZ3M3FPSMCJ0AZ2AB/leila.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Leila Gibradze, Assistant Director, Facilities, leila@innovation.fsu.edu</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837678271-RGFQGMEJMRIU6LFOUQOT/dennis_larry.jpeg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Larry Dennis, Dean, College of Communication and Information</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837678319-QCKO5BILGZBHBDS0J7RQ/devine_mike.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Mike Devine, Entrepreneur in Residence &amp; Professor, College of Engineering</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590441534220-D4MW3HXCZ4MKSOSWJNGV/ren.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Rienne Saludo, Asst. Director, Design &amp; New Tech, ren@innovation.fsu.edu</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837678348-KLHM2U270B32SP1XHD0V/dorn_rebekah.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Rebekah Dorn, Director of Change Leadership and Planning, Information Technology Services</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837678312-OSSO212UYNY9XX2GX5SU/erlebacher_gordon.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Gordon Erlebacher, Professor and Chair, Department of Scientific Computing</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837678455-FREF10XW4G9GZGD2KC5R/manciagli_bruce.jpeg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Bruce Manciagli, Social Entrepreneur in Residence, College of Social Sciences</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839104761-H4WHQ9UJZP5KILNHHL0A/mcdaniel_rob.jpeg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Rob McDaniel, Teaching Faculty, Emergency Management and National Security Program</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/ef64ed0e-8d7d-48c5-8730-7bd777c75706/neelima.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Neelima Koduri, Graduate Assistant, IT</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839133424-YFJWQNUDJQ194SA7I6Y8/meth_mike.png</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Mike Meth, Associate Dean of Research, FSU Libraries</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/833bf550-e260-4aca-99c2-f22c92239bb2/jackson.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Jackson Anderson, Undergrad Ambassador, Education</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837679590-BBXD66O201SNDPTP3P4D/mikota_tom.png</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Tom Mikota, Filmmaker in Residence, Animation, College of Motion Picture Arts</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1602010040207-77M85M2YBXMTE5PL35NE/yale.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Yale Bruce, Undergrad Ambassador, IT</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837679046-H2T7F1PO49ZAZ8B11WX3/mon_lori.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Lorri Mon, Associate Professor, School of Information</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1630699365784-LDUDYS48S1LW34EI4WBL/tommychong.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Tommy Chong, Undergrad Assistant, Computer Science</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837680167-HPKTJDF96STTIXIGJCAE/montez_david.png</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>David Montez, Associate Director, Center for Undergraduate Research and Academic Engagement</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837679235-L6S3NQPH6H20BGHGZ6L1/murphy_jemeriah.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Jeremiah Murphy, Assistant Professor, Physics Department</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839189374-WHVCOPY26ZL9BW1XRQ18/plant_wendy.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Wendy Plant, Director for the InNOLEvation® Center for Student Engagement, Jim Moran School of Entrepreneurship</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1630353550681-72ZZPVMWCB0ONUGDQTFM/lucas%2BII.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Lucas Deininger, Undergrad Ambassador, Engineering</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839211768-3VHAGHU83VJS42CXZ8YV/pritchard_emily.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Emily Pritchard, Director of FSU Mayo Clinic Collaboration, College of Medicine</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839233450-62LQNYRR44QVDH1UYBZ2/ransdell_marlo.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Marlo Ransdell, Associate Professor, Creative Director of Studio D: Design and Fabrication Lab, Department of Interior Architecture and Design</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1602249095887-V215RAHILJHYAMOTL2TE/mason.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Mason Gibson, Undergrad Ambassador, Engineering</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839252980-PVTE36A743JQOVSOTLA3/razzouk_rabieh.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Rabieh Razzouk, Director, Florida Center for Research in Science, Technology, Engineering and Mathematics (FCR-STEM), Learning Systems Institue</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1635527922721-GFKQFHLSVSARSMDANXAO/Andres.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Andres Ho, Undergrad Ambassador, Engineering</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837681179-WNV1ZFMLLCT3PDL94ZL6/rodriguez_cesar.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Cesar Rodriguez, Research Faculty I and Entrepreneurship Advocate, College of Medicine</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1630329788656-SMLRNBA4A4F1LVI613HR/Haneen%252BKakish.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Haneen Kakish, Undergrad Ambassador, Advertising</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839272023-K42GL0HLKCB09Y205DM1/romano_allen.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Allen Romano, Associate Teaching Professor, Coordinator Digital Humanities, Humanities</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591839289547-U7DLWEV1M4WQCK8878WH/stanley_craig.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Craig Stanley, Associate Dean for Academic Affairs, College of Social Work</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591837680943-B4QR4AE9YSCMVLJ98RZJ/vyortkina_dina.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Dina Vyortkina, Director, Office of Information and Instructional Technologies, College of Education</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1602010030504-QEEG2W8IX9B0RYZK2M8M/timothy.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Timothy Surface, Undergrad Ambassador, Engineering</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1630353203646-XMOG1GLF30U4QMYLA2VC/tyler.jpg</image:loc>
-      <image:title>Team</image:title>
-      <image:caption>Tyler WIlliams, Undergrad Ambassador, Interior Design</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/connect</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-05-16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/home</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-    <lastmod>2022-08-02</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1589851093482-YIQ6Z25H8IDUDK3XIEDG/einstein.jpg</image:loc>
-      <image:title>Overview - “We can't solve problems by using the same kind of thinking we used when we created them.”</image:title>
-      <image:caption>— Albert Einstein</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/learn</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-04-29</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592450066048-BPHE6H089JHD37N5U7AT/website-discover-demo-tutorials.jpg</image:loc>
-      <image:title>Overview</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1619546390835-6578GTX6ORGYRUDJIFVK/2people_lookingatcomputer.jpg</image:loc>
-      <image:title>Overview</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1619539119712-PJKMIF5RKW3VDQD97EJK/20200204_105036.jpg</image:loc>
-      <image:title>Overview</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1619547837989-120XRIQSE4A9LN1Q9MPY/badges.jpg</image:loc>
-      <image:title>Overview - Upskill and earn digital badges</image:title>
-      <image:caption>Develop new skills and earn digital badges. These multi-level badges let your peers and future employers know of your additional skillsets. These badges can be viewed on your online portfolio and LinkedIn profile. “This overall experience with 3D printing and the Innovation Hub can simply be described as a great learning experience. From starting with barely any knowledge on the process to now feeling comfortable and proficient, is amazing  growth.”  – Ashley Becklund, Interior Architecture &amp; Design student</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592463468462-IM68QUBSQEF08J5RR1D1/students-at-hub2.jpg</image:loc>
-      <image:title>Overview - “The interns are ready to help anyone from beginners to the most experienced with their projects.”</image:title>
-      <image:caption>— FSU News, February 2020 The Innovation Hub’s interns come from many disciplines and united by a common interest in emerging technologies and design thinking. They are happy to help anyone who comes to the Hub to try out 3D printing, laser cutting, experience virtual reality, and more.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/facility-overview</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-08-22</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590436647241-UOMAQDY07CWMTB18ED5G/lounge.JPG</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590439031873-19WCEOP1JPZ8PCCOK5GQ/IMG_0730.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591819711715-D8X58FFSCCU4DY2QSQ1P/_vr.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590440213383-NM8CFPF7SBHWZWV8MFH5/study.JPG</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591820021396-U7LE3GB9ML1921U09B69/drone.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1590440172690-X1TWUT1GZQF49O2F51N6/colab.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591819093260-3XUT3GJIX0THRVOXIJUS/3d-rack800x600.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/fablab</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-05-16</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591900109862-RUCW5RPN0MU7VR7D0QZL/active_learning.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591903008345-U3ALGLQ9B2WE2K1TOEZI/zing-laser.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591902808916-D8O48TQ22JPXLYU78W9L/lulzbot.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591903062940-QLYV7W1JC2BVBVO8NMJO/soldering-bench.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591902966981-EWIY3V0DDV8LJ8NZRDMF/nextenginehdultra.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591903185457-3LK5MJPYMWEL6J3L94YZ/drone.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591903390660-ORQQU6DGZMAN9035GE5N/littlebits.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591902782797-F3YGR96W6B8J9YGJAGZ0/dremel3d45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591902857564-VW3GPPBFHU9DY3FB1G17/ultimaker_3_2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591902832355-3P5WYUHM41DEMEIHN5US/gmax.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591903152132-D47S2F4J3LLJEK1XFVP0/vexpro.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591903035665-WSVNHLVQ7KNUZ2QS8CHX/vinylcutter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591901088054-DQFNBEDUX9UUB26VRE3T/eric.jpg</image:loc>
-      <image:title>Fablab</image:title>
-      <image:caption>Eric Adams, Fablab Supervisor</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591901088225-X7EMNZ44EY9VGYWVYD3Q/ren.jpg</image:loc>
-      <image:title>Fablab</image:title>
-      <image:caption>Ren Saludo, Design and New Technologies</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591901088350-HKG5Y60TLJB7H38SU9E1/ebrahim.jpg</image:loc>
-      <image:title>Fablab</image:title>
-      <image:caption>Ebrahim, Graduate Assistant</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1591901088008-HK8OW5TBZW2UFQFFPE29/vivi.jpg</image:loc>
-      <image:title>Fablab</image:title>
-      <image:caption>Vivi Huynh, Undergrad Engineer</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/book-a-space</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/3d-print-now</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-06-23</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592933954282-MNXM0C22735TO9Y25NED/linkedinlearning.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592511257911-U8O2CTVQRACBECT9L2CU/3dp_buggy_thingiverse_logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592510969251-WX9K5ZHKI962D2BDCZVH/04bc907c9c12b3fe37a4f63f8976fd9c.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1592510969834-LPQAZ9N4V9A3N4S1SRS6/Autodesk-Fusion-360-logo.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/fablab-policies</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-06-23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/covid19</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-06-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/workshops</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-09-19</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594053545424-WKWXNY0MZXPBDXL5LZLO/20200221_121035.jpg</image:loc>
-      <image:title>Workshops</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594834184646-R7MDKMIR12NBQMCTL18I/20200221_112955.jpg</image:loc>
-      <image:title>Workshops</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594836062882-BHRO8HQQZ07XQJAQ3PRF/20200311_102656.jpg</image:loc>
-      <image:title>Workshops</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/software</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-06-24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/index</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/online-tutorials</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-09-17</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594840162424-L1IKLUK0HXCMYBKIJ0E1/3dprinting-small.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594839986751-890T4D28V41MLGPZA1XQ/website-canva.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594839853023-PJBIYL1U5UTYK10MDDRI/website-small.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594840192971-UPP8YP0SB6W3GFCTH7Z0/vinylcut-small.jpg</image:loc>
-      <image:title>Online Tutorials</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1594840227358-V5VFQOP3JRV8EVOOZYE9/website-small.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/reservations</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-10-20</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1597972673375-LUE82RXJB1L63I1EC7K2/20200304_152300.jpg</image:loc>
-      <image:title>Reservations</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1597938908717-421XPIWYU0PE7OZVU0GD/FLOORPLAN_reservables_COVID_1000px.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/ideate</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-11-02</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623605633552-2DD77UFMIK115CM3ZFQ7/Screen+Shot+2021-06-13+at+1.33.19+PM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598146125888-EWFZ6ZEHEZREPAKRDI06/brainstorm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598147573414-YILDNGPT6WLNPAQ2HBU3/idea_card.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598148306463-HR2KNPZE0KQZ9AGSYRFX/stakeholder_value_mapping.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/comingsoon</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/empathy</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-02-08</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598143624235-I8ZFFTLFVXDZ3VC403BQ/observe.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598143866271-DCI5I5GZBN0HLDUMXZTS/interview.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1625597789503-RLYQBD533943HQL8UL8U/Screen+Shot+2021-07-06+at+2.55.07+PM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598143492733-XLJYT6LR58K5A172Y189/desk_research.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609430462319-XFEYNK6HTI34OKTDKR0U/journey+map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609430957395-D3UTU3WV9TEMCCAE573B/affinity.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/design</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-03-08</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624471180421-32U2WTAEB5S5H78QYT3C/Screen+Shot+2021-06-23+at+1.58.17+PM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624471159629-15XHKMWO1W9TH8XFG10Y/Screen+Shot+2021-06-23+at+1.58.04+PM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624471125749-9DZMUOF9HE82BWUBMYR7/Screen+Shot+2021-06-23+at+1.57.52+PM.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/build</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-11-02</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598212025517-ASTJTQF406RC2OLEW1JJ/storyboard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598210919572-EHYOUWUCDBIXGST0H3EL/prototype.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598212264096-U2FS7E0L6K5MJNC7AUH3/play_acting.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598212314141-X7IHRY95U8P15HSQH7HR/testing.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/livestream</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-11-12</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1600496023089-KHYRDFCMVS575BZNU70B/stream_gena.jpg</image:loc>
-      <image:title>Studio-style Live Stream</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1601172083057-F3CJAE1MXS4XFFXO4ROM/visual_jordan.jpg</image:loc>
-      <image:title>Studio-style Live Stream</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/staff-old</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/home-new</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2020-12-26</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1589851093482-YIQ6Z25H8IDUDK3XIEDG/einstein.jpg</image:loc>
-      <image:title>Home (New) - “We can't solve problems by using the same kind of thinking we used when we created them.”</image:title>
-      <image:caption>— Albert Einstein</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/systems</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-07-18</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/c8fcbd24-e59a-4e02-a7b6-21b66c707389/Screen+Shot+2022-06-09+at+1.07.20+PM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/bc6f0f62-6cfa-4860-8e68-ea5963ab2be8/Screen+Shot+2022-06-09+at+1.06.59+PM.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/methods-overview</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-02-10</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598125844546-Q89X5S9VMSFO7QT1N9ZI/stages.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598538084191-81G58RVP0IDI8XIFOW5U/kurzweil-2.fw.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598125670997-9DJAPCE6VFL1QPCQCDB6/frameworks.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/plan</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-06-13</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1599575484368-UKZ2EUXX5V1A3YTXVQGU/Screen+Shot+2020-09-08+at+10.30.38+AM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598138579735-14S0WOQEG2AWYDRAZ8BY/stakeholder_map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427636605-ATKISRM9RF1XH328QOY2/context_map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427696234-0C5VVLE615VLRH5ED8DV/postit_mindmap.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/40e6f6bc-d5eb-477a-9d5c-c59f61e00eee/hub4.jpg</image:loc>
+      <image:title>About the Hub</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.innovation.fsu.edu/seminole-innovators</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612874115129-DFFSU3KAJCO21ZY7UNHB/1gray_circle.fw.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e5a89e7b-a0b5-41a9-9146-c455e28001e7/FSU-lockups-Innovation-Casual-H-W.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612880209148-3K3Q001QH8J4CWR6NCCQ/advising.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/242d3ba2-287e-4cd4-8435-b1b94e520c7b/wes%21.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612874337757-J2E96C0TJ20OASOJJPUI/2gray_circle.fw.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/09971407-e1e3-4b22-9975-6f771d5a6419/headshot.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612874450197-V3WKEN53MPWSTZ1YAUIS/18_0082_%2528010%2529.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/60b864a9-6425-4745-ba1c-32358b57bf89/IMG_9186.jpg</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612874541741-GN9ZGQY0BJF8YI17UPRR/3gray_circle.fw.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/8434b1c2-4151-4e5f-9756-d76911f423d0/Screenshot+2025-03-05+at+3.39.16+PM.jpg</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612879986939-G3NYZ52F9XNVCUIW7TI1/IMG_5394.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/designingyourlife</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-06-02</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623690331427-BT8EG3DSWMCYQ6UB0OQ0/students-carry-out-research-library.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/80e444fe-2ab1-4005-926a-14bacc12f69d/samirkanbar.jpg</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623760342179-15RX6YFUIVUYVAR6M2XZ/20200204_125522.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c811d142-07f9-430d-90c0-5bfd267a21b2/milesrosoff.jpg</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623839206676-TB9WM09MGO9QFCMIE9I6/Design+Thinking+Framework.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/learn-3d-printing</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-01-21</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1611156921365-4X58T86BBLUCW9A31TU9/20191009_130834.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/ef04ba16-1c33-4f5c-b6e2-247ace60da6a/Screenshot+2025-10-12+at+4.31.23%E2%80%AFPM.png</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1619700402733-TRMN0OWNS2S7YIY7K8CO/planter.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/bdbcc1f4-251b-4021-9e08-cfee23967643/Screenshot+2025-10-13+115345.png</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1613156520288-QKYLQXAMZ6KRQKN3CGDB/valentines_day.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/learn-3d-design</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-09-18</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1611209790470-Z6FVQEDGXG43MMYSEJAK/livestream.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/3-showcase-1</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-02-09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/3-showcase</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-09-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/1-goal-setting</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-09-15</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612895699430-NZ80I23Z4TY0Q6DN7ZXE/IMG_20190112_132852.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b2a9e38d-cd94-4271-9af5-8c9d21013141/parksesnseMeeting.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612896000986-1JM61B4ATW3QWZM48PE5/wes.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a575e166-6328-440b-b68e-195b8a1f86f2/orbitalOdyssey.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1631721887333-04V04FXDHCZ6CFCCDN2L/Screen+Shot+2021-09-15+at+12.04.09+PM.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/2-skills-and-experiences</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2021-09-15</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612902540828-JQVW9L75QMAD20POE109/splash15.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/004a1387-b690-48ae-af5b-75093bb9c2c2/IMG_4713.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1612902565792-1PUSATR26K7FRAI4U4XG/design_thinking-frame.fw.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e040a97b-c91b-4676-904b-d9d526377d77/IMG_4554.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9de93f8d-fdb7-4686-82fc-6707756be57c/image+%284%29.jpg</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/eb8cfa27-8dc0-4a60-92c3-8a90294106fa/IMG_5255.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/7b20638b-0e91-4b6f-bdc8-9c2003b2a88e/IMG_9203.JPEG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d1dfcaa5-31b4-4a22-bbab-f809cd5999fb/IMG_4716.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d59cbd8c-a5d1-4f91-b308-07cd53877b37/IMG_9187.JPEG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/4fffcb6b-cfe5-4cfa-a88b-d8b2d416e048/image.jpg</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5f66594a-21ae-4bee-8186-f0a2b8d3e0d0/IMG_4687.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f31a18cf-5b41-418d-b1f8-4e1f8b8735f4/IMG_4697.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/661c9237-032b-42c5-a455-3ad1df63b7d4/IMG_4699.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/aa7bc526-1bd2-4f57-86c4-0c97f63db45f/IMG_4717.JPG</image:loc>
+      <image:title>Seminole Innovators RSO</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/digital-badges2</loc>
+    <loc>https://www.innovation.fsu.edu/events</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2021-03-20</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616179937762-XZP62MNVKNWXUHU7DWXG/grey3.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616180854241-90X6WKDLNELNVEU3TU9X/grey5.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224238156-OY2QGA6E03LY3JALP4NL/Rectangle+16.jpg</image:loc>
+      <image:title>Events</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616179689776-1LDVUH3QFU6W2VNR7DPN/grey1.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224431317-5MY8W6DHU2C1N8K4V902/Rectangle+18.jpg</image:loc>
+      <image:title>Events</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616179878614-O5CU633CO5YSWLVIZIBA/grey2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616180837846-3O53747AXLZ7UQ46E60L/grey4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616181467893-PZLNC8IWUY3G8B7SUSAT/10202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616185507189-QJA9L8WSOE3MOQLFGBN8/3D-Printing-Level-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1616186486821-YCPGQ5VTDOTKAF3K8KXZ/3D-Design-Level-1.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224412523-SZYXMKS44H8QE5OK3RZP/Rectangle+17.jpg</image:loc>
+      <image:title>Events</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/courses</loc>
+    <loc>https://www.innovation.fsu.edu/joinus</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2021-06-02</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622657842247-JM9OEH2YSRJHO7CWZV9V/IMG_20180125_130659.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622657648343-JB4QUQHP97OJXEZUUVBC/IMG_20181025_132159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622657702869-GP3KNPXOWI8BYTMLL8FT/website-badges-3ddesign.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622657777283-6UXSD96QQA51JHQGQ7NK/IMG_20190214_180031.jpg</image:loc>
-    </image:image>
+    <lastmod>2025-02-06</lastmod>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/innovation-minor</loc>
+    <loc>https://www.innovation.fsu.edu/annual-report</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2021-06-03</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622737656788-DL6XSDGSUDS855PIQZ6G/20200304_152300.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622657648343-JB4QUQHP97OJXEZUUVBC/IMG_20181025_132159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1622737461929-JP91LT573O7AC4L4AYPO/drone.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/wayfinding</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-06-13</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624635282716-LGTN906MQ1Q2STUMBIYT/you_are_here.png</image:loc>
-      <image:title>Wayfinding</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623953938601-YFEZGZOB462CTMJWJHFJ/dashboard.png</image:loc>
-      <image:title>Wayfinding</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624638565559-WFERG5KXHJNHAL1JNCYQ/closeup-person-holding-compass-with-sun-shining-through-hole.jpg</image:loc>
-      <image:title>Wayfinding - The next step to designing your life is to develop your internal compass, the little voice inside that tells you if you are moving in the right direction. The building blocks of this compass are your deeply-held views towards education, work, and life.</image:title>
-    </image:image>
+    <lastmod>2024-05-16</lastmod>
   </url>
   <url>
     <loc>https://www.innovation.fsu.edu/staff</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-05-17</lastmod>
+    <lastmod>2025-11-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/17d14ee6-4470-4e1f-9789-8a767f885f8b/Baldauf_Headshot_compressed.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2f42b840-da9d-4e97-a521-1e5435a2edb2/leila.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c41b6ebe-c220-419e-87cf-16e0d034c9b5/emily.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/120b9445-8fbf-4180-96f4-9f8d8541ce8f/marty2019-scaled.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0da3a519-29d1-452f-97c3-91ee63744607/bret.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/33ca25d1-40a1-4f19-97c0-aef3f836c87b/brooks_darren.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/6ef1cd3c-aac1-408e-a6f7-33778c73dc9f/currny_kevin.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/84f56e13-a7e5-4d50-8c21-dd6f64f00706/Jennifer-Farinella_Square400x400.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/72924b72-7953-482d-9803-bea9f9ad5058/Photo_Leadership_JonathanFozard_ELTIndividual_202303.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/8c9b68d8-1a40-430f-b7e7-d2acfac30551/Eric.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b622074f-87a6-4c37-a0fb-47e0c1c359ca/hunter%2Bmatthew.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/77b4614f-7d86-4214-9424-6a3f50f58437/Shayne-McConomy-200x270.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/185762a4-1ace-433e-a940-49ad439c1859/montez_david.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/fa6eefa3-de93-4442-bb00-2bd033fb5507/AndyOpel2-300x300.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e4ac67ee-fcbe-4419-9db3-1e263d2d6154/cesar.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0e74ddd3-3c3d-4557-8700-df02e554d42e/Stanley_Craig_400x400.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/3e6f152c-04cd-4a5b-973e-e00fdd48f9fb/Dina-Vyortkinya-600x600.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d3ba045e-13da-4cea-a688-1c49e4ae4899/li.jpeg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/285446b1-b792-4144-bcef-d96fa8aa6d41/montez.jpeg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/4def4cdc-8344-44e0-909f-4799fb904927/lemus.jpeg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a4e9d4b1-6da9-4aa7-8e46-4a8f12befed0/Screenshot+2024-06-24+at+9.05.24%E2%80%AFPM.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2bf3e31a-38f2-4293-98b3-792a14e3185d/conrad.jpeg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/6bfd5664-6007-44f4-bfdb-af6be1e9c5aa/PXL_20240624_183459509.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/59e6cc51-3fae-471c-99e7-f462867b9b73/kai.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d50a1c6d-18cd-48d6-b2eb-ecbd4454819e/sarah.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a5ddb440-717f-4da4-bc7c-72b846e7f6cb/tafari.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2cb8c353-0a23-4956-909c-9be33869022f/Screenshot+2024-10-30+at+1.36.41%E2%80%AFPM.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/65ee86e5-0167-4c80-9e2c-198e7a6dbed7/nico.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5742d601-5969-4ae6-940c-59b0deffd6fb/meadow.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/3fd1834f-b4b1-4abf-a3cb-4e37620686cf/pixit.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/937e353e-a077-4bc5-84f6-b609c1ffc0b7/joy.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/140cedf7-77d7-447b-a50e-1b1fce6a61b2/mason.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/567c9e08-f921-4982-b917-a3d4a0c1b062/Screenshot+2024-10-30+at+2.04.57%E2%80%AFPM.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d55cae73-8dea-408a-8c79-9c44bb94a9e3/jackson.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/4f0ccce4-d12c-41f4-a96a-822dc73a6523/ren.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/873cb943-6da8-460d-a312-bbea537503a0/Lee%2CJae-Hwa.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/669e18b3-9fb6-4af6-9f13-3b0d7463d4fa/DSC08008.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/337ed513-e9e8-4d62-b6eb-63bcf2c714a3/colby.jpeg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f1c50652-9520-4cfb-9f9d-46b5bfa1f778/james.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/dc1e4f0f-af46-47dd-873a-66f42acc5a9b/craig.jpeg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c811d142-07f9-430d-90c0-5bfd267a21b2/milesrosoff.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/8579c666-acf7-442c-8e40-e27fd531f1bb/samirkanbar.jpg</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9f4e6c7d-4994-472a-a144-ee6cbd09f585/hub+logo-white+%28no+text%29.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/504f71fd-6b05-4860-a6b6-99979dc8c140/Screenshot+2025-10-29+at+10.55.50%E2%80%AFAM.png</image:loc>
+      <image:title>Staff and Leadership</image:title>
+    </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/odyssey-plans</loc>
+    <loc>https://www.innovation.fsu.edu/faculty</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623953938601-YFEZGZOB462CTMJWJHFJ/dashboard.png</image:loc>
-      <image:title>Odyssey Plans</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e5a89e7b-a0b5-41a9-9146-c455e28001e7/FSU-lockups-Innovation-Casual-H-W.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624635282716-LGTN906MQ1Q2STUMBIYT/you_are_here.png</image:loc>
-      <image:title>Odyssey Plans - So how do you figure out where you currently are in your journey of self-discovery and fulfillment? Start with taking stock of important areas of your life – health, work, play, and love.</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1448e7d2-eecf-43f5-98ed-37df5408f4d0/coffeechat2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624638565559-WFERG5KXHJNHAL1JNCYQ/closeup-person-holding-compass-with-sun-shining-through-hole.jpg</image:loc>
-      <image:title>Odyssey Plans - The next step to designing your life is to develop your internal compass, the little voice inside that tells you if you’re moving in the right direction. The building blocks of this compass are your views towards learning, work, and life.</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c2788c78-527f-40c1-a021-eb612d002ba2/IMG_3278.JPEG</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/95bee9db-7fd3-4940-a01b-a042bad58a74/Librarians+Conference.JPEG</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b7cb2eae-ff62-49dc-9907-fd590689e107/Hub+VR+3.JPG</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/bd09fa8b-4a52-4cb4-9660-bed79496102a/IMG_20191010_120200.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/ideation</loc>
+    <loc>https://www.innovation.fsu.edu/reservations</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-06-01</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1599575484368-UKZ2EUXX5V1A3YTXVQGU/Screen+Shot+2020-09-08+at+10.30.38+AM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598138579735-14S0WOQEG2AWYDRAZ8BY/stakeholder_map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427636605-ATKISRM9RF1XH328QOY2/context_map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427696234-0C5VVLE615VLRH5ED8DV/postit_mindmap.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d22ad749-a5d6-47fc-a5e7-93aa05910715/FLOORPLAN_reservables.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/redesign</loc>
+    <loc>https://www.innovation.fsu.edu/students</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2021-08-19</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1599575484368-UKZ2EUXX5V1A3YTXVQGU/Screen+Shot+2020-09-08+at+10.30.38+AM.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e5a89e7b-a0b5-41a9-9146-c455e28001e7/FSU-lockups-Innovation-Casual-H-W.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598138579735-14S0WOQEG2AWYDRAZ8BY/stakeholder_map.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/bad0c5b1-865a-474f-97ca-4a9b6aed9389/research.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427636605-ATKISRM9RF1XH328QOY2/context_map.jpg</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9088be21-9fd8-4f82-9b9d-52fe577a723b/IMG_4740.JPEG</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427696234-0C5VVLE615VLRH5ED8DV/postit_mindmap.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/60ddbeb2-b96b-4f6b-9594-bb1463dd8a96/IMG_4260.JPEG</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/8fab52d2-ae62-4f9f-a9e3-1122e8eaca47/%40MadisonDoddPhotography-2226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0d37fceb-cea5-4d32-8eea-02fa5358b9c4/%40MadisonDoddPhotography-2231.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/life-prototypes</loc>
+    <loc>https://www.innovation.fsu.edu/connect</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-05-26</lastmod>
+    <lastmod>2024-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/courses</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1599575484368-UKZ2EUXX5V1A3YTXVQGU/Screen+Shot+2020-09-08+at+10.30.38+AM.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1598138579735-14S0WOQEG2AWYDRAZ8BY/stakeholder_map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427636605-ATKISRM9RF1XH328QOY2/context_map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1609427696234-0C5VVLE615VLRH5ED8DV/postit_mindmap.png</image:loc>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e5a89e7b-a0b5-41a9-9146-c455e28001e7/FSU-lockups-Innovation-Casual-H-W.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/experts</loc>
+    <loc>https://www.innovation.fsu.edu/minor</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-02-10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/accip-playbook</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-01-12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/innovation-slides</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-04-19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/know-yourself</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-06-02</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624635282716-LGTN906MQ1Q2STUMBIYT/you_are_here.png</image:loc>
-      <image:title>Know Yourself - So how do you figure out where you currently are in your journey of self-discovery and fulfillment? Start with taking stock of important areas of your life – health, work, play, and love. A well-designed life is one that considers how these 4 areas of your life fit together.</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e5a89e7b-a0b5-41a9-9146-c455e28001e7/FSU-lockups-Innovation-Casual-H-W.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1623953938601-YFEZGZOB462CTMJWJHFJ/dashboard.png</image:loc>
-      <image:title>Know Yourself</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/437ddb21-fecf-470d-9974-598a784f49a4/IMG_0445.jpg</image:loc>
+      <image:title>Innovation Minor</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1624638565559-WFERG5KXHJNHAL1JNCYQ/closeup-person-holding-compass-with-sun-shining-through-hole.jpg</image:loc>
-      <image:title>Know Yourself - The next step to designing your life is to develop your internal compass, the little voice inside that tells you if you are moving in the right direction. The building blocks of this compass are your deeply-held views towards education, work, and life.</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722538743618-BQPF1VRCZERW79YN9TV8/IMG_20181025_132159.jpg</image:loc>
+      <image:title>Innovation Minor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/fablab</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722540084366-APB88H1PCGT4A2NHYKXQ/active_learning.jpg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f5d086b5-a6e6-4ff5-a786-b026094754a8/Prusa-Research-Original-Prusa-XL-3D-printer-1024x1024.jpeg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1ca695c9-9ffb-4deb-bab6-7eaf6a34b974/7742-large_default.jpg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/991edc10-f7fd-45fd-b4ad-d8ca161eab43/hakko-3261_fx888d-23by_dv_webxl.jpg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a0dd35dd-2972-4f09-b1ed-febbc9e089b6/signwarehouse-com-vinyl-express-qe6000-plotter.jpg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b595c7b6-a46c-4cfb-821b-8bad21963b0f/48848-ada36c39973e4f88aee2717e1ad40d2f.jpeg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/ae651a4c-521a-475e-ad7f-3bf8769e61bd/fuse-1.jpg</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a8c7b93e-23fd-4a6c-ba26-7f2ace27f8fc/LEAD-CNC-2.png</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a361edc6-463d-47bf-a2de-f2d4cf6ae813/Prusa-CORE-ONE-1-993476751.webp</image:loc>
+      <image:title>Fablab</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/3d-print-now</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-10-29</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f09e767f-2a3b-4104-be7b-01049b4035ea/images.png</image:loc>
+      <image:title>3D Print Now</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722540339097-9JARL8WVU4D191LHZP5A/Autodesk-Fusion-360-logo.png</image:loc>
+      <image:title>3D Print Now</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722540337748-0DQLIBGU4PC4GAI8UTVO/04bc907c9c12b3fe37a4f63f8976fd9c.gif</image:loc>
+      <image:title>3D Print Now</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722540335888-LRLB5ZXWDUGGP465YG4A/linkedinlearning.png</image:loc>
+      <image:title>3D Print Now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/fablab-policies</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-03-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/rubini</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-03-31</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633807309-GTI0LHKDDKTWDZ0512AG/gail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633809504-3S59MY0K71H7ESM99LB5/6410cdafc86a1e714cccab73</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633812275-I6HRMY6GEROSM4QUXKJF/6410ca7ef268066205dcce1c</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633813524-YX7R2CIIMPUF15KQ2NZY/6410cb356a94bb34518241f8</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633815811-C127BS0030SGSYCZPY1X/6410d21469e2062f45d855f4</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633817834-5X8Z3O009UF10NPSA83E/6410cf2820fb15739f6ae08b</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633820087-4MMZYA6XNACDEFCIZ7Y8/6410d09b20fb15739f6b38ba</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722633816694-L4XYCTTSZSIGBA5CZE0Y/6410ce4a8a9a832f2f810974</image:loc>
+      <image:title>Gail Rubini New Media Design Lab</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/plan</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-03-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634495030-W3EKQPC5D2598ZV5ERRR/Screen%2BShot%2B2020-09-08%2Bat%2B10.30.38%2BAM.png</image:loc>
+      <image:title>--Plan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/72e8f574-3a39-45a9-8a7d-f8c06520a1ad/Stakeholder+Map.png</image:loc>
+      <image:title>--Plan</image:title>
+      <image:caption>Click to enlarge.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b6beef04-c6c6-44fb-8300-ab4150356ceb/Context+Map.png</image:loc>
+      <image:title>--Plan</image:title>
+      <image:caption>Click to enlarge</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634495202-I500194Y3ND7914QFVEG/postit_mindmap.png</image:loc>
+      <image:title>--Plan</image:title>
+      <image:caption>Click image to enlarge</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/empathy</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-02-27</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634552741-1PRQUBEH0ADX49A40OV4/desk_research.jpg</image:loc>
+      <image:title>Empathize</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634555399-CN7S3CND8XQURBOGUQOG/interview.jpg</image:loc>
+      <image:title>Empathize</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634553978-SJWSIA138XNO1C7A23AB/observe.jpg</image:loc>
+      <image:title>Empathize</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634551530-P8L12UCWZXUDRWS2IO67/journey%2Bmap.jpg</image:loc>
+      <image:title>Empathize</image:title>
+      <image:caption>Journey Map with sticky notes. Click image to enlarge.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634551402-TDKFGPGMSMLBBU1C7GGI/affinity.png</image:loc>
+      <image:title>Empathize</image:title>
+      <image:caption>Completed Affinity Map - Click image to enlarge</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/ideate</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-02-27</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634610653-IMETH2YDGD0HGBAICAL2/Screen%2BShot%2B2021-06-13%2Bat%2B1.33.19%2BPM.png</image:loc>
+      <image:title>Ideate - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634610508-IL3Z3CVIX3AQHH0HZO6Y/brainstorm.jpg</image:loc>
+      <image:title>Ideate</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634610574-47D2FXUSQ10TITHH6MNL/idea_card.png</image:loc>
+      <image:title>Ideate</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634610590-MNNPUV2L8GP2L0WHSGMF/stakeholder_value_mapping.png</image:loc>
+      <image:title>Ideate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/defined</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-05-13</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f7ad2999-611c-4b32-a154-836e24738a2b/Screenshot+2025-01-26+at+11.10.30%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/6d7d9284-c01e-4f2b-ba39-9b2f4b9b9055/Screenshot+2025-01-26+at+9.20.34%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634705980-LEJEQ3NUX2R2WTPRREFH/frameworks.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634706936-1UBFA17R0DL7X2D3ZRS9/stages.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/design-thinking</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/build</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-02-27</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634977335-BJIYDEYDUOG51DLSDXXU/storyboard.png</image:loc>
+      <image:title>Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634976495-SUGRK93D34XAPAAK7B3T/prototype.jpg</image:loc>
+      <image:title>Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634979231-SOMOO9O0WFCMFX0VTK7V/play_acting.png</image:loc>
+      <image:title>Build</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634976401-VAXSUPD3KSH0P1JYDTNP/testing.jpg</image:loc>
+      <image:title>Build</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/4staff</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-03-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d22ad749-a5d6-47fc-a5e7-93aa05910715/FLOORPLAN_reservables.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764795438-MKACMDYXAK1609A1O6X4/Screen+Shot+2022-11-08+at+12.25.02+PM.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764796427-25PFLRQ1PJWLSNHORIMH/PXL_20221103_115811901.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d3dda577-07d8-48a6-ab21-8fd11ca0129b/fur_Chair_lever.jpg</image:loc>
+      <image:title>Staff Resources</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/49179119-c143-4ea6-9eab-2fd88d8979bc/fur_Chair_nested.jpg</image:loc>
+      <image:title>Staff Resources</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/449af3f9-feac-43a4-b7e7-1681f1e1caea/fur_table_chairs.jpg</image:loc>
+      <image:title>Staff Resources</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/fb91c419-8309-4302-ba1e-b8e9f976c1c5/fur_Table_nested.jpg</image:loc>
+      <image:title>Staff Resources</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07f40b94-5af1-4be3-8245-a5d22dde433e/fur_no.jpg</image:loc>
+      <image:title>Staff Resources</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/programroom</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-09-01</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764790805-IKI7T9X5YBBKLRRN60LK/PXL_20221108_171255116.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764789372-F5JRGJ7C2M9J5FHALAHH/PXL_20221108_171212759.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764792040-0ZGBSHPA8XTXVW7IOQS6/PXL_20221108_171424672.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764782256-YCGUJYORCWW7XJ4Q86XJ/Screen%2BShot%2B2022-11-08%2Bat%2B12.25.02%2BPM.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764785103-CIUVD727M3LLFVRGNOLC/PXL_20221103_115126639.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764786903-KY8Q12U68HLDGWB1I0IQ/PXL_20221103_114553491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764783645-IVIXJ1LTNQG80WTAR7G5/PXL_20221103_115811901.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764794777-A0L12DAJ606IU3BAYRSQ/PXL_20221103_114940992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764787861-6F0QO3BC8G75NUIVLAFZ/PXL_20221103_120010327.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764786031-0M9PCOH3JIAUYMM4HE3Z/PXL_20221103_115802007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764793558-1Y4JG0NVM7I66R5G53V5/PXL_20221103_114620155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724764783679-5RN8KK8HQZR82L81835P/PXL_20221103_114601753.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/events/24hr-hackathon</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-09-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016906-4RMRVNXXT3FM0SG4M9KC/nextera%2Blogo%2B%2528white%2529.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955021132-DM4MTGSGOV61WJ2Z0NA4/employer...tile.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955017948-E6Y6KCS0YB9HW7RLE9LS/events%2526workshop%2Btile.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019608-NCJELH0MPW40Z1VAQHR8/nole%2Bnetwork%2Btile.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955017724-K0JHSJLMRGSLWHRM6QWP/IMG_2227.JPEG</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019260-PTBBICJPYL3IABUYG0AL/IMG_6351.jpg</image:loc>
+      <image:title>GUARDIANS of the GRID 24hr Hackathon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955017631-BTT04CIIPN67VSI8UHNU/IMG_20180215_145021.jpg</image:loc>
+      <image:title>GUARDIANS of the GRID 24hr Hackathon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955017982-UNWNDE5EM9U98XZ6KO1D/rz-customers.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016495-8MJ2TH349EA8GCB77REK/NEE_Real-zero-landing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955020081-9YQCN4HZA22TUZET2VWS/rz-investors.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019102-S2ODYDZCRNDXVQ926H73/neer-energy-storage.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016721-FYNY2CCZ9BTY41MEETQP/Screen%2BShot%2B2023-03-19%2Bat%2B12.24.00%2BPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016562-JAAEIMVXCP8CGCHYYVC1/NextEra20Energy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955017884-WJ3DGPHYJG57VR2G0K40/Approved%2BDSA_cobrand_Career%2BCenter%2Bblack%2Band%2Bgarnet%2BV.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019544-N10IKU106YGZKJYA38F8/hub%2Blogo%2B%2528with%2Btext%2529.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/202223</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/blackstone</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-10-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/af520e71-b789-4822-8116-5739cba9009a/launch_pad_lock_up_standard.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/750e9213-f97b-45af-89d1-cecca45234f9/Screenshot+2024-09-12+at+2.11.40%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c7ede01b-6cb2-42d6-92bc-aec6d65dd83c/Screenshot+2024-09-12+at+2.15.31%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07e180f2-52dc-4b7f-91f2-88edbcd5ee22/collaborate.png</image:loc>
+      <image:title>Blackstone Orlando Magic DT Workshop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5c92afbe-c47b-4547-867b-bc74dea34774/roadmap.jpg</image:loc>
+      <image:title>Blackstone Orlando Magic DT Workshop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/562f2adb-a8f5-421c-963b-78703a392aa4/creativity.png</image:loc>
+      <image:title>Blackstone Orlando Magic DT Workshop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/93911582-6081-4dd5-9303-301560b4f3a9/4257483.png</image:loc>
+      <image:title>Blackstone Orlando Magic DT Workshop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/hack-disaster</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-11-14</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f14723e7-0d36-41d3-ba48-fc980f3f8109/hub+logo-white2+%28no+text%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c23c399a-2cb9-4738-a843-10e2646ae91d/NEW+contour+colored+logo-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5196e073-d29f-4e00-bda5-c5713032461a/FSU_Lockup_2CLR_GAR_V_rgb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b65ef5a1-3c73-4d87-93f2-d999e3ce578a/knu_gerb-2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/innovation</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-03-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c1eb2b49-17eb-4c54-bccc-3cf69472b879/AdobeStock_72548334.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/750e9213-f97b-45af-89d1-cecca45234f9/Screenshot+2024-09-12+at+2.11.40%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c7ede01b-6cb2-42d6-92bc-aec6d65dd83c/Screenshot+2024-09-12+at+2.15.31%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/562f2adb-a8f5-421c-963b-78703a392aa4/creativity.png</image:loc>
+      <image:title>Innovation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07e180f2-52dc-4b7f-91f2-88edbcd5ee22/collaborate.png</image:loc>
+      <image:title>Innovation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5c92afbe-c47b-4547-867b-bc74dea34774/roadmap.jpg</image:loc>
+      <image:title>Innovation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0d056228-f261-4118-80a4-962f148a534b/tech.png</image:loc>
+      <image:title>Innovation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/superheroes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-10-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016906-4RMRVNXXT3FM0SG4M9KC/nextera%2Blogo%2B%2528white%2529.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/4c2f6192-2d59-4473-b220-bd6b36b72792/Screenshot+2024-10-26+092626.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016721-FYNY2CCZ9BTY41MEETQP/Screen%2BShot%2B2023-03-19%2Bat%2B12.24.00%2BPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019544-N10IKU106YGZKJYA38F8/hub%2Blogo%2B%2528with%2Btext%2529.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c77477a6-a1eb-4555-b415-b4e2db863e1e/Career+Center+Logo-V.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016562-JAAEIMVXCP8CGCHYYVC1/NextEra20Energy.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/si-framing</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-01-09</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724840742-VCF9YM5J79JMV4AYFMPT/Screen%2BShot%2B2022-11-02%2Bat%2B1.52.21%2BPM.png</image:loc>
+      <image:title>--SI-Framing - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724840611-NOGWWJ6ZIGWLPZQL746E/Screen%2BShot%2B2022-11-03%2Bat%2B8.34.25%2BAM.png</image:loc>
+      <image:title>--SI-Framing - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724840522-06I5XA9DC8WL6I98IDZ4/Screen%2BShot%2B2022-11-03%2Bat%2B8.39.00%2BAM.png</image:loc>
+      <image:title>--SI-Framing - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.innovation.fsu.edu/si-forces</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-07-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/si-framing</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-07-18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/si-map</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.75</priority>
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2024-09-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724871754-EOXCRRMDNC5Z7KJ4HFX0/affinity.png</image:loc>
+      <image:title>--SI-Forces - Make it stand out</image:title>
+      <image:caption>Example Affinity Map</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724871638-UU526FK43YSJ9OHM8UO7/Screen%2BShot%2B2023-01-26%2Bat%2B10.52.45%2BAM.png</image:loc>
+      <image:title>--SI-Forces - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724872716-UTSUK85TKDOS0S987PM4/Screen%2BShot%2B2023-01-26%2Bat%2B10.52.24%2BAM.png</image:loc>
+      <image:title>--SI-Forces - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724872035-K864KXGWOK3J1G2J2024/Screen%2BShot%2B2023-01-26%2Bat%2B11.06.18%2BAM.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://www.innovation.fsu.edu/si-loops</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2024-09-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724909202-GQI6ZN9PO0P9NJKSQ5U4/Screen%2BShot%2B2022-11-16%2Bat%2B1.17.04%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Mixed Loop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724902331-YBD6UXHHTAYQTHSM5207/Screen%2BShot%2B2022-11-16%2Bat%2B1.08.26%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724905284-FI0J4N038ZA3G3B5AHZ9/Screen%2BShot%2B2022-11-16%2Bat%2B1.37.01%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Vicious Loop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724907326-VR1X6PGWLK9AT7E6KBZ9/Screen%2BShot%2B2022-11-16%2Bat%2B1.36.07%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Stabilizing Loop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724903374-RGL7BDQ1GSMRR7EUV2Y6/Screen%2BShot%2B2022-11-16%2Bat%2B1.15.06%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724904305-FOQQPGICBTD0M3JTJLZJ/tree-pen-black-d0361958df633822fcb095229247c5e2547f37f3fd6549699a895e9f40fbde79.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724906308-WEEMBT9EG5GG7YPZWRJ6/Screen%2BShot%2B2022-11-16%2Bat%2B1.36.43%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Virtuous Loop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724908330-F5XFSTCDMO5Z24XLDLIH/Screen%2BShot%2B2022-11-16%2Bat%2B1.35.38%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Stagnating Loop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724903271-AE6NNI3I54BV7QZLF67Q/Screen%2BShot%2B2023-02-14%2Bat%2B10.41.50%2BAM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724902319-78XLFBL1HBPMSBROH0DE/Screen%2BShot%2B2022-11-16%2Bat%2B1.32.13%2BPM.png</image:loc>
+      <image:title>--SI-Loops - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://www.innovation.fsu.edu/si-lever</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2024-09-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724995680-BOJW1R55X4J1KLJEM52W/Screen%2BShot%2B2023-02-16%2Bat%2B8.35.50%2BAM.png</image:loc>
+      <image:title>--SI-Lever - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727724994656-SVU3Z7AWH9XF9POWDKMT/Screen%2BShot%2B2023-02-16%2Bat%2B8.35.40%2BAM.png</image:loc>
+      <image:title>--SI-Lever - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/overview-new</loc>
+    <loc>https://www.innovation.fsu.edu/si-map</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2022-06-29</lastmod>
+    <lastmod>2024-09-30</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec0712f88e81651845998f2/1589851093482-YIQ6Z25H8IDUDK3XIEDG/einstein.jpg</image:loc>
-      <image:title>Overview (NEW) - “We can't solve problems by using the same kind of thinking we used when we created them.”</image:title>
-      <image:caption>— Albert Einstein</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727725031202-V9G39R7V0YFRZ2JTO56U/Screen%2BShot%2B2022-11-28%2Bat%2B7.27.42%2BPM.png</image:loc>
+      <image:title>--SI-Map - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727725032512-LD4CQEA787S5X5O8KTE1/Screen%2BShot%2B2022-11-28%2Bat%2B8.17.34%2BPM.png</image:loc>
+      <image:title>--SI-Map - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727725030954-MWB0I0B00NN9YEFGCDAX/Group_of_employees.jpeg</image:loc>
+      <image:title>--SI-Map - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2</loc>
+    <loc>https://www.innovation.fsu.edu/systems</loc>
     <changefreq>daily</changefreq>
     <priority>0.75</priority>
-    <lastmod>2020-06-23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2/project-six-39efw</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-05-20</lastmod>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847422112-G7ETRT5C07KF9PHFAV96/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Six</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847421455-8JW2CPL3ZB56F2Z8ACLN/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Six</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727725089718-23JZJGZQISQDBXM9XZZX/Screen%2BShot%2B2022-06-09%2Bat%2B1.07.20%2BPM.png</image:loc>
+      <image:title>Systems Thinking Class - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847420762-AGPM8HHB51L8F01AAZN7/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Six</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847420322-U8QPDYBOD6HXYRSL8QW0/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Six</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1727725088324-OHV74H3UPL3FLEZI7ZW3/Screen%2BShot%2B2022-06-09%2Bat%2B1.06.59%2BPM.png</image:loc>
+      <image:title>Systems Thinking Class - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2/project-five-2pnpr</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-05-20</lastmod>
+    <loc>https://www.innovation.fsu.edu/donors</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/give</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/design-sprints</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847415862-Q3ZFJIJW6OARJ95QUPI6/santiago-gomez-240061-unsplash-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847419968-YLRD4TYV9QU8K9LW04SP/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f09fbe37-e323-407d-bfa9-9548234b4264/Screenshot%2B2024-01-09%2Bat%2B3.39.16%E2%80%AFPM.png</image:loc>
+      <image:title>Design Sprints</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847416547-TJR77RX98G7XEO5PHDGN/santiago-gomez-240061-unsplash-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/08890bb5-6908-4438-bb45-4bb33fcb73c4/senior2.jpg</image:loc>
+      <image:title>Design Sprints</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847419260-TLMPOGZEKRIR09EDXNAA/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d1186911-74a0-4fc0-9c1c-c496fcc3dda1/NEE_Real-zero-landing.jpg</image:loc>
+      <image:title>Design Sprints</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847418911-D6BSPWP8P3O9YAF5R3SO/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/7bd87a84-8b7d-459b-a389-b826ea049fee/Screenshot+2024-11-22+at+1.01.35%E2%80%AFPM.jpg</image:loc>
+      <image:title>Design Sprints</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847414444-JXQ9TNQDTOG27XISHFNV/santiago-gomez-240061-unsplash-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/7e4a577d-53b7-4826-8169-432ddc302183/marvel6.jpg</image:loc>
+      <image:title>Design Sprints</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847418431-66X2HHF6ZNWKOC9VHLZI/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847413988-JAJPWK3HSQVGS4Y6H6IF/santiago-gomez-240061-unsplash-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847417789-TGDSX064I3PZELTJI8Q1/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847413576-5B9GI5G96341ER291E3E/santiago-gomez-240061-unsplash-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847417384-6R65UAAJW6EW4KUCUT6U/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847413110-CEAYW2CESOYOHC68WXZL/santiago-gomez-240061-unsplash-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847416982-R2067X6OPKY3MG304FSJ/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Five</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/37823dd9-0005-4a7f-ad3d-a1154aaf8433/AdobeStock_680377017.jpeg</image:loc>
+      <image:title>Design Sprints</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2/project-four-7dcff</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-05-20</lastmod>
+    <loc>https://www.innovation.fsu.edu/events/human-trafficking</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-09-22</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847905386-9EM9GLHE12726EXM68S4/image-asset.jpeg</image:loc>
-      <image:title>Portfolio 2 - Project Four - Make it stand out.</image:title>
-      <image:caption>It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934617790-26UN3T2BR5R07K8HRO8P/Screenshot%2B2024-01-09%2Bat%2B3.39.16%25E2%2580%25AFPM.png</image:loc>
+      <image:title>24hr Design Sprint: Human Trafficking</image:title>
+      <image:caption>Millions of people are considered modern slaves today.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847906050-Q37PFW075QZ6YU9179YP/image-asset.jpeg</image:loc>
-      <image:title>Portfolio 2 - Project Four - Make it stand out.</image:title>
-      <image:caption>It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934616541-X9C576ERZDI73SR6U4RH/IMG_2211.JPEG</image:loc>
+      <image:title>24hr Design Sprint: Human Trafficking</image:title>
+      <image:caption>Students work in teams to understand the problem and develop solutions.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847907929-YZFF0BD112Q9PF2G1BK6/image-asset.jpeg</image:loc>
-      <image:title>Portfolio 2 - Project Four - Make it stand out.</image:title>
-      <image:caption>It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2/project-three-bwzct</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-05-20</lastmod>
-    <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847412609-54WSVSAFRMKZEQTXDKB9/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934616576-8HZSPN02TTM4FEKSV31Y/trafficking_infographic508.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847411947-BSOTI2122B2HLPAP3XSL/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934616190-8RR6XERTLNTE1RGZNNRS/Screen%2BShot%2B2023-03-19%2Bat%2B12.24.00%2BPM.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847411502-9D27YNIMALNIHZYQ1CMG/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934617329-EP0GAJ6T79HIKFN5D40H/winner-Ameen.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847410901-NW4BE1NIG86WQS26D48L/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934618644-JEKV0FXW1ILYQN0TSYAV/honorable-mention.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847410514-YTA75TP5M5NY1DD11BB2/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934616239-4JXZ8YQ7T3425WV7K9LH/frame%2B%25281%2529.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847409407-NH9B3VB0PQWBG5LZEU5P/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934616242-FVZVC9LPTLZ6GYABILRG/frame%2B%25282%2529.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847408362-3VSTKTYIWN0INM638YVD/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Three</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934616274-CXW69K1BDWQ9HPRQTB9C/frame.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2/project-two-a5gd5</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-05-20</lastmod>
+    <loc>https://www.innovation.fsu.edu/events/aging-in-place</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-10-14</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847407784-0ZWK2VWHWVEO87VQWTE3/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Two</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934672394-DC4PBTYZNTBCYVK5RYO0/IMG_8785.JPEG</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847407287-985X24W2BPAEHHISD0C0/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Two</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934692880-JVKBZIMIWO07IJPS8IXB/IMG_6351.jpg</image:loc>
+      <image:title>Design Sprint: Aging in Place</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847406849-K0MEB56K6G4CEGRZ4D2J/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Two</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934672210-WRCBF9VI6MM66WXN31O2/IMG_20180215_145021.jpg</image:loc>
+      <image:title>Design Sprint: Aging in Place</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847406249-J4HYEHES6F6UCY5TVM2A/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Two</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934671655-7BSOFGVK3AZSDJF4XUXG/senior2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847405591-FZUNRUAT1SR1PVIL5TA8/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Two</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934671116-ZYTLU8S3G7G7Q27F6Q1Q/Screen%2BShot%2B2023-03-19%2Bat%2B12.24.00%2BPM.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847404849-JBKU84SJXZL5LDL554SL/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project Two</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934671402-48P6F4PSBRX4VA1D8OOD/survey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934692943-AHBDZCVSOOJHEMIFXG1W/hub%2Blogo%2B%2528with%2Btext%2529.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934673502-7JRH304E5LF2HGRKJPEK/Nursing%2Blogo%2BII.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934672055-7K8XGC2VL1W3RB4C1SEN/IDHI%2BColor%2BIcons.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934671484-RS23H3MPTN6X4BN24BXU/iad-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1728934671869-A8C5A7OOKQEIILHPWWBP/Aging%2Bin%2BPlace%2Bcopy.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://www.innovation.fsu.edu/portfolio-2/project-one-alypc</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2020-05-20</lastmod>
+    <loc>https://www.innovation.fsu.edu/nimd</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-04</lastmod>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847404387-JU309UFEWQ1YR946FJVD/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project One</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847403763-CNHK66ERZAP3FARA51ND/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project One</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/42895e47-666d-495e-829f-eae72fce443e/jackson%2Bstaff%2Bpic.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/academic-innovation</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-11-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c8c491b4-983e-4d5f-ac1e-8f400d274075/FSU_Lockup_W_H_rgb.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/design-thinking-overview</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-03-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a52a6e5e-fa7a-479b-90d7-b50a58a9fc10/Screen%2BShot%2B2023-04-11%2Bat%2B9.56.34%2BAM.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847403305-VJDKJA1VO786FIOO83WE/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project One</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/3ab17883-7dd3-4f2a-8806-2b1e944a1157/AdobeStock_521555274.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847402884-2RBITFZTNVLDS1AJEKXW/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project One</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f14723e7-0d36-41d3-ba48-fc980f3f8109/hub+logo-white2+%28no+text%29.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847402453-A0LKCHP0YA7NLI2E0WJA/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project One</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/562f2adb-a8f5-421c-963b-78703a392aa4/creativity.png</image:loc>
+      <image:title>Design Thinking Overview</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847402040-WALQWA4IM1JBBHBJZ731/20140301_Trade-151_0124-copy.jpg</image:loc>
-      <image:title>Portfolio 2 - Project One</image:title>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07e180f2-52dc-4b7f-91f2-88edbcd5ee22/collaborate.png</image:loc>
+      <image:title>Design Thinking Overview</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5c92afbe-c47b-4547-867b-bc74dea34774/roadmap.jpg</image:loc>
+      <image:title>Design Thinking Overview</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/93911582-6081-4dd5-9303-301560b4f3a9/4257483.png</image:loc>
+      <image:title>Design Thinking Overview</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/rapid-relocation</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-02-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/785234e8-6293-4cfc-955c-bba3ff4e23a0/formal-wcollege-V-stack-W.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2b230d1e-a79b-47f4-8d91-4e52d52c757b/Screenshot+2025-01-31+at+5.13.47%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2027b5ba-575b-46b6-a846-537c5207377e/adobe-express-qr-code.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/34d35b05-e536-40f8-b35f-cecb997ab84b/FSU-COSSPP-Dean_formal-wcollege-V-stack-BW+RGB.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019544-N10IKU106YGZKJYA38F8/hub%2Blogo%2B%2528with%2Btext%2529.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/innovator</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-01-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634814982-E97M4SIZJ8GQLMK49CMD/Screen%2BShot%2B2021-06-23%2Bat%2B1.57.52%2BPM.png</image:loc>
+      <image:title>The Innovator - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634818146-XV714JOF95FZZJITBQV6/Screen%2BShot%2B2023-04-11%2Bat%2B9.56.34%2BAM.png</image:loc>
+      <image:title>The Innovator - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634817152-Q0JO5AHA4SPWCB4LSOCS/Screen%2BShot%2B2021-06-23%2Bat%2B1.58.17%2BPM.png</image:loc>
+      <image:title>The Innovator - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634816135-NPYCEUFP5WJK8EN5X4M9/Screen%2BShot%2B2021-06-23%2Bat%2B1.58.04%2BPM.png</image:loc>
+      <image:title>The Innovator - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634820427-T5LLWR8MTQWQGW7XN53J/Screen%2BShot%2B2023-07-02%2Bat%2B6.08.00%2BPM.png</image:loc>
+      <image:title>The Innovator - Make it stand out</image:title>
+      <image:caption>This view of Design Thinking emphasizes the divergent and convergent nature of Design Thinking and the messieness factor.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/methods-overview</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/6f268ccd-38ae-48bb-8d50-4ddabc1d008e/Screenshot+2025-11-25+at+9.24.19%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634705980-LEJEQ3NUX2R2WTPRREFH/frameworks.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634706936-1UBFA17R0DL7X2D3ZRS9/stages.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e58388fa-5be1-440f-ac2b-95e1c1133ae0/Screenshot+2025-11-25+at+9.06.50%E2%80%AFAM.png</image:loc>
+      <image:title>Innovation Framework</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/7df64879-aac0-4a00-93c8-69db10a2e64f/Screenshot+2025-11-25+at+9.07.06%E2%80%AFAM.png</image:loc>
+      <image:title>Innovation Framework</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/6f4a79ef-9168-467d-83d8-3004be65b051/Screenshot+2025-11-25+at+9.07.26%E2%80%AFAM.png</image:loc>
+      <image:title>Innovation Framework</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/bc901e4c-f565-4e5b-9271-9b36a22869dd/Screenshot+2025-11-25+at+9.07.40%E2%80%AFAM.png</image:loc>
+      <image:title>Innovation Framework</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615225259531-0HK0SKZ3FR5VOEIG39FB/Rectangle+26.jpg</image:loc>
+      <image:title>Innovation Framework</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/steering</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-02-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1732298142467-7UIHWB3PYK6GW5AQL5A4/hub+logo+%28with+text%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/562f2adb-a8f5-421c-963b-78703a392aa4/creativity.png</image:loc>
+      <image:title>Steering Committee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07e180f2-52dc-4b7f-91f2-88edbcd5ee22/collaborate.png</image:loc>
+      <image:title>Steering Committee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5c92afbe-c47b-4547-867b-bc74dea34774/roadmap.jpg</image:loc>
+      <image:title>Steering Committee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/93911582-6081-4dd5-9303-301560b4f3a9/4257483.png</image:loc>
+      <image:title>Steering Committee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/openhouse</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-09-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/fb62e393-c5e6-4755-ba1d-80413c29e2a5/2025+Seminole+Innovators+Open+House+copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/84f0ffe5-92ac-4a38-82eb-e3652727a833/JMC+SharkTank+%28openhouse+25%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/ee536941-8148-4b7d-82cb-9b121cf2c18a/Game+IQ+-+OPENHOUSE+%28fa.25%29.png</image:loc>
+      <image:title>Open House</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0460ae21-a310-4352-975c-3285d85625f8/Arcvale+-+OPENHOUSE+%28fa.25%29.png</image:loc>
+      <image:title>Open House</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/23abd67c-e078-428b-ac1c-875d3e749852/Parksense+-+OPENHOUSE+%28fa.25%29.png</image:loc>
+      <image:title>Open House</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/77e45cd5-5cc1-423b-9412-15b798890c3a/Ourpatch+-+OPENHOUSE+%28fa.25%29.png</image:loc>
+      <image:title>Open House</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a692b629-976b-4792-b8c4-75be5dd69793/NIMD+-+OPENHOUSE+%28fa.25%29.png</image:loc>
+      <image:title>Open House</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a348c00c-7bc3-4d7c-b413-4812910c455e/Orbital+Od+-+OPENHOUSE+%28fa.25%29.png</image:loc>
+      <image:title>Open House</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/new-page</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/innovation-1</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-04-03</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c1eb2b49-17eb-4c54-bccc-3cf69472b879/AdobeStock_72548334.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c7ede01b-6cb2-42d6-92bc-aec6d65dd83c/Screenshot+2024-09-12+at+2.15.31%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/750e9213-f97b-45af-89d1-cecca45234f9/Screenshot+2024-09-12+at+2.11.40%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/562f2adb-a8f5-421c-963b-78703a392aa4/creativity.png</image:loc>
+      <image:title>EmilyMayo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07e180f2-52dc-4b7f-91f2-88edbcd5ee22/collaborate.png</image:loc>
+      <image:title>EmilyMayo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5c92afbe-c47b-4547-867b-bc74dea34774/roadmap.jpg</image:loc>
+      <image:title>EmilyMayo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0d056228-f261-4118-80a4-962f148a534b/tech.png</image:loc>
+      <image:title>EmilyMayo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/fsu-marketing</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-06-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/21d75153-da77-4ff5-a6db-e3727b67f427/_FSU_Lockup_W_V_rgb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a6ecf530-3668-4311-bd4e-7f413621e6f0/IMG_2321.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/f6b07104-8d1e-4838-a107-8f9fd9a61d99/IMG_2322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/14bf8eca-54d3-47c9-88c3-20b4d232fb3b/IMG_2318.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c0734877-c6ed-4475-9c56-e5b0a2d77df6/IMG_2326.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c7ede01b-6cb2-42d6-92bc-aec6d65dd83c/Screenshot+2024-09-12+at+2.15.31%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/750e9213-f97b-45af-89d1-cecca45234f9/Screenshot+2024-09-12+at+2.11.40%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/562f2adb-a8f5-421c-963b-78703a392aa4/creativity.png</image:loc>
+      <image:title>FSU Marketing</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/07e180f2-52dc-4b7f-91f2-88edbcd5ee22/collaborate.png</image:loc>
+      <image:title>FSU Marketing</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/5c92afbe-c47b-4547-867b-bc74dea34774/roadmap.jpg</image:loc>
+      <image:title>FSU Marketing</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/93911582-6081-4dd5-9303-301560b4f3a9/4257483.png</image:loc>
+      <image:title>FSU Marketing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/sukkah</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-10-07</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/db1b2a9b-fe1d-400f-9680-9b89718fa9fd/Screenshot+2025-09-22+at+11.04.17%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b273a66f-1673-47eb-a73d-9e881be6461f/Akermanlogotext.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/43a6d083-2258-43ee-94af-5c44fc3a6d55/qr-tags.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2c2fbf77-82b9-4fdf-bc23-8788074093c8/fsu-sukkah2025-1200.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/next100</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-10-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/16b02018-7972-44ca-91a8-b995028cd6cb/Next100+-+Hackathon_black.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016906-4RMRVNXXT3FM0SG4M9KC/nextera%2Blogo%2B%2528white%2529.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/cce6147c-a65b-4ba8-af8d-9978a68ea8e7/Screenshot+2025-10-24+at+1.29.06%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9ef89463-1926-4df6-b95f-28403fc10db1/PXL_20251024_203501789.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/062da3ee-a0bb-41ff-b9af-28051bdda281/frame.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955016562-JAAEIMVXCP8CGCHYYVC1/NextEra20Energy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c77477a6-a1eb-4555-b415-b4e2db863e1e/Career+Center+Logo-V.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1724955019544-N10IKU106YGZKJYA38F8/hub%2Blogo%2B%2528with%2Btext%2529.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/home</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2025-11-06</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/e5a89e7b-a0b5-41a9-9146-c455e28001e7/FSU-lockups-Innovation-Casual-H-W.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/993ccd74-ac33-483c-900f-bb8bc7e3b5d4/rubini.jpg</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/a358e93e-b2b4-4e2a-a5a9-6eb868b5246b/3d.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/d92fb1e5-5889-4898-a8c0-ee20153f2365/the_hub.jpg</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b667a180-6937-49c2-934a-4afce8ca21ac/xperience.jpg</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/ef04ba16-1c33-4f5c-b6e2-247ace60da6a/Screenshot+2025-10-12+at+4.31.23%E2%80%AFPM.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/9725d46a-2d4e-4985-8f80-6b473bd25625/Screenshot+2025-10-12+at+4.35.10%E2%80%AFPM.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/17a82e24-d7b7-43b2-92f0-1d949dd907ae/Screenshot+2025-10-12+at+4.38.48%E2%80%AFPM.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1b1f2989-1e2c-4ba8-8374-cbe2f478b8aa/Screenshot+2025-10-12+at+4.43.47%E2%80%AFPM.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/be1503c3-88bd-48a6-8bc3-a1649140b260/Screenshot+2025-10-12+at+4.49.33%E2%80%AFPM.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/aa54f7ed-b5a5-40ce-a196-aff15c23dce0/Screenshot+2025-10-12+at+4.53.58%E2%80%AFPM.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/747b589c-cc31-4400-938b-6c8a78ddda6d/health.jpg</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/7ff2a297-b63b-4ec5-bc00-9f03d39d467b/research.jpg</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/design</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634817152-Q0JO5AHA4SPWCB4LSOCS/Screen%2BShot%2B2021-06-23%2Bat%2B1.58.17%2BPM.png</image:loc>
+      <image:title>Design Thinking Class - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634818146-XV714JOF95FZZJITBQV6/Screen%2BShot%2B2023-04-11%2Bat%2B9.56.34%2BAM.png</image:loc>
+      <image:title>Design Thinking Class - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634814982-E97M4SIZJ8GQLMK49CMD/Screen%2BShot%2B2021-06-23%2Bat%2B1.57.52%2BPM.png</image:loc>
+      <image:title>Design Thinking Class - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634816135-NPYCEUFP5WJK8EN5X4M9/Screen%2BShot%2B2021-06-23%2Bat%2B1.58.04%2BPM.png</image:loc>
+      <image:title>Design Thinking Class - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634820427-T5LLWR8MTQWQGW7XN53J/Screen%2BShot%2B2023-07-02%2Bat%2B6.08.00%2BPM.png</image:loc>
+      <image:title>Design Thinking Class - Make it stand out</image:title>
+      <image:caption>This view of Design Thinking emphasizes the divergent and convergent nature of Design Thinking and the messieness factor.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/dt0-overview</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-12-03</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/dc0240a2-de98-485d-a47b-67b20350b9ef/Screenshot+2025-11-14+at+10.40.51%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c102813f-a272-4efb-b575-bc0ef52048d5/Screenshot+2025-11-24+at+12.11.02%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0792462c-d3f6-45a5-85e1-9a12b27f6278/Screenshot+2025-11-24+at+11.27.31%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224238156-OY2QGA6E03LY3JALP4NL/Rectangle+16.jpg</image:loc>
+      <image:title>DT0-Overview</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224431317-5MY8W6DHU2C1N8K4V902/Rectangle+18.jpg</image:loc>
+      <image:title>DT0-Overview</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224412523-SZYXMKS44H8QE5OK3RZP/Rectangle+17.jpg</image:loc>
+      <image:title>DT0-Overview</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224238156-OY2QGA6E03LY3JALP4NL/Rectangle+16.jpg</image:loc>
+      <image:title>DT0-Overview</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/dt3-plan</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-14</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634495030-W3EKQPC5D2598ZV5ERRR/Screen%2BShot%2B2020-09-08%2Bat%2B10.30.38%2BAM.png</image:loc>
+      <image:title>DT3 Planning</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/72e8f574-3a39-45a9-8a7d-f8c06520a1ad/Stakeholder+Map.png</image:loc>
+      <image:title>DT3 Planning</image:title>
+      <image:caption>Click to enlarge.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/b6beef04-c6c6-44fb-8300-ab4150356ceb/Context+Map.png</image:loc>
+      <image:title>DT3 Planning</image:title>
+      <image:caption>Click to enlarge</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/1722634495202-I500194Y3ND7914QFVEG/postit_mindmap.png</image:loc>
+      <image:title>DT3 Planning</image:title>
+      <image:caption>Click image to enlarge</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/dt2-teaming</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-12-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/c102813f-a272-4efb-b575-bc0ef52048d5/Screenshot+2025-11-24+at+12.11.02%E2%80%AFPM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/0792462c-d3f6-45a5-85e1-9a12b27f6278/Screenshot+2025-11-24+at+11.27.31%E2%80%AFAM.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224238156-OY2QGA6E03LY3JALP4NL/Rectangle+16.jpg</image:loc>
+      <image:title>DT2-Teaming</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224431317-5MY8W6DHU2C1N8K4V902/Rectangle+18.jpg</image:loc>
+      <image:title>DT2-Teaming</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224412523-SZYXMKS44H8QE5OK3RZP/Rectangle+17.jpg</image:loc>
+      <image:title>DT2-Teaming</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224238156-OY2QGA6E03LY3JALP4NL/Rectangle+16.jpg</image:loc>
+      <image:title>DT2-Teaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/dt1-hmw</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-11-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/663a6f57a266af56504ab458/2a558bdd-a833-4d4c-a964-0272056e2a94/FSU-Lockups-InnovationHub_Casual-H-W2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615224238156-OY2QGA6E03LY3JALP4NL/Rectangle+16.jpg</image:loc>
+      <image:title>DT1-HMW</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615225259531-0HK0SKZ3FR5VOEIG39FB/Rectangle+26.jpg</image:loc>
+      <image:title>DT1-HMW</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615225123989-3AGGEWNOKB8XK6YRH6A9/Rectangle+25.jpg</image:loc>
+      <image:title>DT1-HMW</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1615225350677-B3YBA0I530Q8W9125BX3/Rectangle+27.jpg</image:loc>
+      <image:title>DT1-HMW</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.innovation.fsu.edu/_read_me_</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2025-12-02</lastmod>
   </url>
 </urlset>
 
