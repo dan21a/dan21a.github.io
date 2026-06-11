@@ -5,7 +5,9 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
+Allow: /api/ui-extensions/
 Disallow: /static/
 Disallow:/*?author=*
 Disallow:/*&author=*
@@ -34,7 +36,9 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
+Allow: /api/ui-extensions/
 Disallow: /static/
 Disallow:/*?author=*
 Disallow:/*&author=*
@@ -63,7 +67,9 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
+Allow: /api/ui-extensions/
 Disallow: /static/
 Disallow:/*?author=*
 Disallow:/*&author=*
@@ -92,7 +98,9 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
+Allow: /api/ui-extensions/
 Disallow: /static/
 Disallow:/*?author=*
 Disallow:/*&author=*
